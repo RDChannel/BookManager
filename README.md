@@ -61,6 +61,19 @@ It provides interactive documentation for all endpoints and their expected input
 
 ---
 
+## 🧪 Test Coverage Includes:
+- ✅ Creating, updating, and deleting books
+
+- ✅ Searching by title/author
+
+- ✅ Retrieving by ID and ISBN
+
+- ✅ Validation and duplicate checks
+
+- ✅ API response status codes
+
+- ✅ Full controller endpoint coverage
+
 ## 📥 Sample JSON for Create/Update
 
 ```json
